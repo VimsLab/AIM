@@ -8,9 +8,9 @@ Install the [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit) and the [c
 
 ## Download the data set
 [CUB200 dataset](http://www.vision.caltech.edu/datasets/cub_200_2011/) </br>
-The datasets should be place in datasets/CUB_200_2011. </br>
-Training data should be in datasets/CUB_200_2011/train/<categories>. </br>
-Test set should be in datasets/CUB_200_2011/test/<categories>. </br>
+The datasets should be place in datasets/CUB_200_2011 </br>
+Training data should be in datasets/CUB_200_2011/train/<categories> </br>
+Test set should be in datasets/CUB_200_2011/test/<categories> </br>
 
 ## Train
 ```
