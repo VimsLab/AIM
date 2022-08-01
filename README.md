@@ -7,10 +7,10 @@ Official PyTorch implementation for [AIM: an Auto-Augmenter for Images and Meshe
 Install the [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit) and the [cuDNN library](https://developer.nvidia.com/rdp/cudnn-archive) matching the version of your Ubuntu operating system. Installation of the [Anaconda Python Distribution](https://repo.anaconda.com/archive/Anaconda3-2021.05-Linux-x86_64.sh) is required as well. We recommend installing CUDA10.2.
 
 ## Download the data set
-[CUB200 dataset](http://www.vision.caltech.edu/datasets/cub_200_2011/)
-The datasets should be place in datasets/CUB_200_2011
-Training data should be in datasets/CUB_200_2011/train/<categories>.
-Test set should be in datasets/CUB_200_2011/test/<categories>.
+[CUB200 dataset](http://www.vision.caltech.edu/datasets/cub_200_2011/) </br>
+The datasets should be place in datasets/CUB_200_2011. </br>
+Training data should be in datasets/CUB_200_2011/train/<categories>. </br>
+Test set should be in datasets/CUB_200_2011/test/<categories>. </br>
 
 ## Train
 ```
